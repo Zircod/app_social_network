@@ -1,0 +1,24 @@
+.nav {
+  grid-area: nav;
+  background-color: green;
+  padding: 20px;
+}
+
+.list {
+  padding: 0;
+  margin: 0;
+}
+
+.item {
+  list-style-type: none;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+a.active {
+  text-decoration: none;
+  color: gold;
+}
